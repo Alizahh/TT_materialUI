@@ -12,7 +12,7 @@ import SearchIcon from '@material-ui/icons/Search';
 import InputBase from '@material-ui/core/InputBase';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import AlerDialogue from './modal';
-// 
+
 const useStyle = makeStyles((theme) => ({
   root1:{
     backgroundColor:'#474a5a',
@@ -117,9 +117,7 @@ scroller:{
 },
 border:{
   boxShadow:'none',
-  '& .MuiPaper-elevation1':{
-    boxShadow:'none',
-   },
+  
 },
 }
 }));

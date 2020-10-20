@@ -1,9 +1,6 @@
 import React from 'react';
 import {Grid} from '@material-ui/core';
-// import Header from './header';
-// import Content from "./content";
 import MenuBar from './menubar';
-// import Sample from './sample';
 import SimpleTab from './tab';
 import { makeStyles } from '@material-ui/core/styles';
 
