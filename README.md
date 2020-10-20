@@ -1,3 +1,19 @@
+used files:
+1-App.js
+2.img.png
+3-index.js
+4-menubar.js
+5-modal.js
+6-input.js //modal input
+7-one.js //tab-page-1
+8-two.js //tab-page-2
+9-three.js //tab-page-3
+10-tab.js
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
